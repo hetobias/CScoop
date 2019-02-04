@@ -1,0 +1,8 @@
+My preferred editor is Visual Studio Code because for two reasons. 
+The first reason is that you can use add-ons which makes coding 
+much easier because there are add-ons for almost anything. 
+There is stlying add-ons, debugging add-ons, and many more. 
+The second reason why I like VS Code is because there is a 
+built-in terminal and as well as git. I use windows and 
+having a built-in terminal and git in the code editor 
+makes my life much easier and more organized. 
